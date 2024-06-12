@@ -62,7 +62,7 @@ let isLessOrEqual = a <= b;
 let andResult = a > 5 && b > 5;
 // Example: let orResult;
 // Use '||' to check if either 'a' or 'b' is greater than 5.
-let orResult = a > 5 || b > 5;
+let orResult = (a > 5) || (b > 5);
 //
 // Do not edit below this line, this code will display the values on the page
 //
